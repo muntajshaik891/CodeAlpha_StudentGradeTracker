@@ -1,0 +1,9 @@
+========== STUDENT REPORT ==========
+
+Student Name : ravi | Marks : 92 | Grade : A Grade | Result : PASS
+Student Name : seenu | Marks : 76 | Grade : B Grade | Result : PASS
+Student Name : ram | Marks : 30 | Grade : Fail | Result : FAIL
+
+Average Marks : 66.0
+Highest Marks : 92
+Lowest Marks  : 30
